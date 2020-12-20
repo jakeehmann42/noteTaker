@@ -10,13 +10,8 @@ will use an express backend and save and retrieve note data from a JSON file.
 
 
 ## Installation
-
-
-
-
-## Usage
-
-
+Make sure to npm install uuid, as well as express.
+The nodemon install i do not think is necessary for anyone except the developer.
 
 
 ## Credits
